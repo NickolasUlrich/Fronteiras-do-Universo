@@ -1,0 +1,27 @@
+header {
+    background-color: rgb(16, 23, 37);
+    color:  hsl(53, 48%, 42%);
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+}
+img{
+    width: 400px;
+    height: 500px;
+    border-radius: 5%;
+    border: 5px solid hsl(53, 59%, 28%);
+}
+body {
+    color:hsl(0, 0%, 100%);
+    background-color: rgb(25, 34, 49);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.batata{
+    margin: 5%;
+    margin-left: 2%;
+   width: 50%;
+}
+.conteudo{
+    display: flex;
+}
